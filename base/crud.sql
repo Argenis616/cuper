@@ -68,7 +68,7 @@ CREATE TABLE `usuario` (
 
 LOCK TABLES `usuario` WRITE;
 /*!40000 ALTER TABLE `usuario` DISABLE KEYS */;
-INSERT INTO `usuario` VALUES (1,'Torey','Tommasetti','Dudson'),(2,'Clyve','Nisen','Bente'),(3,'Allix','Hearnaman','Vickar'),(4,'Putnem','Pauling','Siebart'),(5,'Melina','MacCarrane','Baggarley'),(6,'Aviva','Hardacre','Denidge'),(7,'Doloritas','Wetherhead','John'),(8,'Ingaberg','Larsen','Abisetti'),(9,'Natalya','Mc Menamin','Kemsley'),(10,'Elizabeth','Olivia','Eberle'),(11,'Lockwood','Milner','Canlin'),(12,'Ardra','Chiddy','Norvel'),(13,'Sherie','Bigly','Bayston'),(14,'George','Donati','Colegate'),(15,'Georgeanna','Cribbin','Longmuir'),(16,'Lammond','Bompas','Rickert'),(17,'Kass','Larver','Lainge'),(18,'Jenica','Goalby','Knill'),(19,'Indira','De Souza','Verlinden'),(20,'Hannah','Finkle','Tuftin');
+INSERT INTO `usuario` VALUES (1,'Jorge','Argenis','Hernandez'),(2,'Clyve','Nisen','Bente'),(3,'Allix','Hearnaman','Vickar'),(4,'Putnem','Pauling','Siebart'),(5,'Melina','MacCarrane','Baggarley'),(6,'Aviva','Hardacre','Denidge'),(7,'Doloritas','Wetherhead','John'),(8,'Ingaberg','Larsen','Abisetti'),(9,'Natalya','Mc Menamin','Kemsley'),(10,'Elizabeth','Olivia','Eberle'),(11,'Lockwood','Milner','Canlin'),(12,'Ardra','Chiddy','Norvel'),(13,'Sherie','Bigly','Bayston'),(14,'George','Donati','Colegate'),(15,'Georgeanna','Cribbin','Longmuir'),(16,'Lammond','Bompas','Rickert'),(17,'Kass','Larver','Lainge'),(18,'Jenica','Goalby','Knill'),(19,'Indira','De Souza','Verlinden'),(20,'Hannah','Finkle','Tuftin');
 /*!40000 ALTER TABLE `usuario` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -81,4 +81,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-11-06  3:01:33
+-- Dump completed on 2022-11-09  2:35:56
